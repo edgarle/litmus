@@ -1,0 +1,32 @@
+# Prólogo ¿por qué y para quién es este trabajo? {.unnumbered}
+
+Durante mucho años dirijo un pequeño coro parroquial.
+Yo sabía cantar y tocar guitarra, pero no sabía cómo hacerlo para Dios y mucho menos en misa.
+Mi primer encuentro musical en el ámbito religioso fue a través del Camino neocatecumenal, donde fui salmista un corto tiempo en Tarija, Bolivia.
+Eso me animó a conformar el primer ministerio de música con la que ahora es mi esposa y un par de Señoras mayores, Doña Rossi y Doña Martha Alvarez cerca del año 2005 (#REVISAR#).
+Al pasar el tiempo fui aprendiendo algunas cosas por aquí y otras por allá,
+y para ser un joven de 25 #(revisar)# años que no sabía cómo alabar a Dios, pienso que avancé mucho.
+
+Este compendio es el que me hubiese gustado encontrar cuando me estaba animando a cantar para Dios y no sabía si hacerlo o no.
+Años después me doy cuenta que esta decisión llenó una parte de mi vida para mi bien personal, familiar y de mi comunidad, es decir para la Iglesia.
+Así que espero que sirva a personas que sepan cantar o tocar un instrumento, pero les falta el conocimiento de la liturgia.
+
+En este momento de mi vida considero que para conformar un ministerio de música se requieren idealmente de tres tipos de personas:
+
+1. Personas que toquen instrumentos y canten (para quienes está dirigido este compendio),
+2. Personas con conocimiento de la liturgia (que sirve para escoger las canciones y melodías adecuadas, y es el fin de este documento) y
+3. Personas que tengan un "cierto" nivel de espiritualidad (son esas personas que conoces por sus frutos y que irradian luz en la oscuridad)
+
+Pienso que al pasar el tiempo estos tres tipos de personas van creciendo en ti mismo.
+Así te vas transformando en un miembro de un ministerio de música maduro y por tanto un miembro maduro de tu comunidad.
+
+Así que si te sientes identificado con alguna parte de esta historia, espero facilitarte el trabajo, tiempo y el acceso a varios recursos que me fueron útiles, y espero que también lo sean para ti.
+Para ello, me tomo la libertad de escribirte directa y llanamente como en una conversación de amigos.
+
+## Fuentes del trabajo
+@rms2e
+## Licencia {.unnumbered}
+
+This book is licensed to you under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+The code samples in this book are licensed under [Creative Commons CC0 1.0 Universal (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/), i.e. public domain.

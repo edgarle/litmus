@@ -1,0 +1,91 @@
+project:
+  type: book
+  output-dir: _book
+
+toc: true
+number-sections: true
+
+book:
+  title: "Liturgia para ministerios de música católicos"
+  downloads: [pdf]
+  author:
+    - name: "Edgar E. Gareca León"
+      url: https://www.researchgate.net/profile/Edgar-Gareca-Leon
+      affiliation: Fraternidad de laicos Santo Tomás de Aquino, Cochabamba
+    - name: "Colaborador"
+  page-footer:
+    left:
+      - text: "Copyright 2024, Edgar E. Gareca León"
+  date: last-modified
+  date-format: "[Última modificación:] DD-MM-YYYY: H:mm:ss (A)"
+  reader-mode: true
+  repo-url: https://github.com/edgarle/litmus/
+  repo-actions: [edit, issue]
+  chapters: 
+    - index.qmd
+    - intro.qmd
+    - part: minmus.qmd
+      chapters:
+      - tipos-minmus.qmd
+      - rol-en-misa.qmd
+    - part: liturgia.qmd
+      chapters:
+      - que-es-liturgia.qmd
+      - año-liturgico.qmd
+      - misa-liturgia.qmd
+      - partes-misa.qmd
+      - cantos-misa.qmd
+    - part: minmus-otros.qmd
+      chapters:
+      - grupo-de-oracion.qmd
+      - adoracion.qmd
+      - animacion.qmd
+      - referencias.qmd
+  references: referencias.bib
+  appendices:
+    - textos-ordinario.qmd
+  back-to-top-navigation: true
+  page-navigation: true
+
+format:
+  html:
+    link-external-icon: true
+    shift-heading-level-by: 0
+    subject: "Liturgia para músicos"
+    date: last-modified
+    date-format: "[Última modificación:] DD-MM-YYYY: H:mm:ss (A)"
+    theme:
+      light: cosmo
+      dark: darkly
+    code-tools: true
+    df-print: paged
+    fig-cap-location: top
+    html-math-method: mathjax
+    number-sections: true
+    number-depth: 3
+    toc-depth: 3
+  pdf:
+    toc: true
+    fig-pos: "H"
+    hyperrefoptions:
+      - bookmarksnumbered=true
+    toc-title: Contenidos
+    df-pring: tibble
+    links-as-notes: true
+    documentclass: scrbook
+    classoption: [twoside=off]
+    shift-heading-level-by: 0
+    toc-depth: 2
+    number-sections: true
+    number-depth: 3
+    colorlinks: true
+    include-in-header:
+      text: |
+        \usepackage{makeidx}
+        \makeindex
+    include-after-body:
+      text: |
+        \printindex
+  
+
+
