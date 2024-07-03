@@ -1,5 +1,286 @@
 ---
-title: "Untitled"
-format: html
+title: "Liturgia para ministerios de música católicos"
+date: last-modified
+author: Edgar E. Gareca León
+lang: es
+format:
+    html:
+        toc: true
+        toc_float: true
+        theme:
+            light: sanstone
+            dark: sandstone
+        number-depth: 4
 ---
+Prólogo ¿por qué y para quién es este trabajo?
+==============================================
 
+Durante mucho años dirijo un pequeño coro parroquial.
+Yo sabía cantar y tocar guitarra, pero no sabía cómo hacerlo para Dios y mucho menos en misa.
+Mi primer encuentro musical en el ámbito religioso fue a través del Camino neocatecumenal, donde fui salmista un corto tiempo en Tarija, Bolivia.
+Eso me animó a conformar el primer ministerio de música con la que ahora es mi esposa y un par de Señoras mayores, Doña Rossi y Doña Martha Alvarez cerca del año 2005 (#REVISAR#).
+Al pasar el tiempo fui aprendiendo algunas cosas por aquí y otras por allá,
+y para ser un joven de 25 #(revisar)# años que no sabía cómo alabar a Dios, pienso que avancé mucho.
+
+Este compendio es el que me hubiese gustado encontrar cuando me estaba animando a cantar para Dios y no sabía si hacerlo o no.
+Años después me doy cuenta que esta decisión llenó una parte de mi vida para mi bien personal, familiar y de mi comunidad, es decir para la Iglesia.
+Así que espero que sirva a personas que sepan cantar o tocar un instrumento, pero les falta el conocimiento de la liturgia.
+
+En este momento de mi vida considero que para conformar un ministerio de música se requieren idealmente de tres tipos de personas:
+
+1. Personas que toquen instrumentos y canten (para quienes está dirigido este compendio),
+2. Personas con conocimiento de la liturgia (que sirve para escoger las canciones y melodías adecuadas, y es el fin de este documento) y
+3. Personas que tengan un "cierto" nivel de espiritualidad (son esas personas que conoces por sus frutos y que irradian luz en la oscuridad)
+
+Pienso que al pasar el tiempo estos tres tipos de personas van creciendo en ti mismo.
+Así te vas transformando en un miembro de un ministerio de música maduro y por tanto un miembro maduro de tu comunidad.
+
+Así que si te sientes identificado con alguna parte de esta historia, espero facilitarte el trabajo, tiempo y el acceso a varios recursos que me fueron útiles, y espero que también lo sean para ti.
+Para ello, me tomo la libertad de escribirte directa y llanamente como en una conversación de amigos.
+
+# ¿Por que somos parte de un ministerio de música?
+Esta pregunta me rondó los primeros años de mi servicio,
+ya sea cantando en los grupos de oración, adoración al Santísimo o en las misas.
+
+# ¿Cuál es el rol del ministerio de música en la misa?
+Al principio pensé que nosotros como ministerio de música teníamos que cantar los cantos que están en la hojita litúrgica (hoja dominical),
+pero después aprendí que esto es lo que se ve por fuera, pero no lo que se debe hacer por dentro.
+
+# ¿Cuál es el rol de la música en la misa?
+Solo cuando entendí el rol de la música en la misa es que pude mejorar mi participación como miembro de un ministerio de música.
+
+# ¿Qué es la música litúrgica, católica y "cristiana"?
+Esta pregunta la tomé de un video de Youtube (ENLACE)
+y tiene la finalidad de ayudarte a comprender porqué en la misa debemos cantar música litúrgica,
+y cuál es la ventaja de diferenciar entre música católica de la música "cristiana". 
+# ¿Por qué debemos conocer al año litúrgico?
+Después de conocer la importancia de la música en la misa (LINK) y el rol del ministerio de música (LINK),
+te muestro  cómo el conocer el año litúrgico nos da pautas generales para cumplir nuestro rol.
+
+El año litúrgico nos permite crecer en los tres ámbitos: musical, litúrgico y espiritual.
+
+Hijo, no te preocupes de las canciones que cantarás hoy, ya las conoces;
+preócupate por tu estado de ánimo con el que las cantarás. (CITA ANTONY DE MELLO)
+
+## Tiempo de Adviento
+Inicio del año litúrgico y es un tiempo de espera y de esperanza
+
+### Temática de los cantos del tiempo de Adviento
+
+## Tiempo de Navidad
+El Hijo de Dios se hace hombre, hay un Dios entre nosotros.
+Dios Padre nos ama tanto que envía a su Hijo a nuestro mundo,
+el Hijo nos ama tanto que siendo Dios se hace hombre.
+_Ya vislumbra la noche de la Vigilia Pascual_
+
+### Octava de Navidad
+
+### Temática de los cantos del tiempo de Navidad
+
+## Tiempo Ordinario 1
+Es variable y trata de las temáticas...
+Son pocos domingos
+
+### Temática de los cantos del tiempo Ordinario
+
+## Tiempo de Cuaresma
+Tiempo espera y preparación
+Inicio miércoles de ceniza
+### Temáticas de los cantos del tiempo de Cuaresma
+
+## Semana Santa
+Es el centro de nuestra fe
+En ella se sintetiza y manifiesta plenamente el amor que Dios nos tiene.
+El Hijo ama tanto a su Padre y al hombre que muere por obediencia al primero
+y por amor a los segundos. 
+
+### Domingo de Ramos
+Entrada triunfal de Jesús a Jerusalén
+
+#### Temática de los cantos del Domingo de Ramos
+
+### Triduo Pascual
+
+### Jueves Santo
+La institución de la Eucaristía y la institución del orden sacerdotal
+
+#### Temática de los cantos del Jueves Santo
+
+#### Temática de los cantos para acompañar al Santísimo después de misa
+
+### Viernes Santo
+Muerte de Jesús
+Adoración de la cruz
+
+#### Temática de los cantos para la adoración de la cruz
+
+### Vigilia Pascual
+Recordamos la antigua alianza y celebramos la nueva alianza
+Celebramos la resurrección de Jesús
+
+#### Pregón Pascual
+
+#### Notas sobre el momento de la aspersión con agua bendita
+
+#### Momento de gozo que puede celebrarse con el ministerio de música
+
+### Sábado Santo
+Esta sección no está destinado a las canciones o música,
+sino al rol de este momento en la Semana Santa
+
+## Tiempo de Pascua
+
+### Domingo de Pascua
+Aparición de Jesús a las mujeres
+
+### Octava de Pascua
+
+### Ascensión del Señor al cielo
+
+## Pentecostés
+Cumpleaños de la Iglesia, nuestro cumpleaños como Iglesia
+
+### Vigilia de Pentecostés 
+
+### Momento de gozo que puede celebrarse con el ministerio de música
+
+## Tiempo Ordinario 2
+Ocupa el resto del año hasta la fiesta de Cristo Rey
+
+## Otras fiestas de la Iglesia
+
+### /Corpus Christi/
+
+### Sagrado corazón de Jesús y María
+
+### Fiestas patronales
+
+### Sirviendo o ¿MINISTRANDO? en los Sacramentos
+
+#### Bautizo
+
+#### Primera comunión
+
+#### Confirmación
+
+#### Matrimonio
+
+# ¿Cuáles son las partes de la misa y sus cantos?
+La misa es una celebración de una comunidad,
+así que las letras de las canciones deben tratar de demostrarlo.
+De esta manera evitar canciones en primera persona singular: yo,
+y escoger canciones en primera persona plural: nosotros.
+Ya que nosotros como Iglesia
+celebramos esta manifestación de Dios entre nosotros.
+
+## Ritos iniciales
+Finalidad dentro de la liturgia
+
+### Canto de entrada _(O ANTÍFONA??)_
+
+### Kyrie o Señor piedad
+
+### Gloria
+
+## Liturgia de la Palabra
+Se proclama a la Palabra de Dios,
+esta se consuma en el Evangelio
+en la que escuchamos a Jesús,
+la Palabra de Dios que se hizo carne.
+
+### Primera lectura
+Generalmente tomada del AT
+Solo en el tiempo pascual, corresponde al NT
+
+### Salmo responsorial
+Sirve de unión o bisagra entre la primera lectura y el Evangelio
+
+### Segunda lectura
+Corresponde al NT
+No siempre se puede encontrar una relación entre esta lectura
+
+### Aclamación al Evangelio
+Debe ser cantado
+Cantar ambas secciones: "Aleluya"
+y el versículo que viene en las hojas litúrgicas.
+No incluir otros textos que no sean los anteriores
+ya que pueden distraer al mensaje dado por las lecturas anteriores
+y por tanto su unión con el Evangelio.
+
+### Credo
+Se recomienda que se cante.
+
+## Liturgia de la Eucaristía
+
+### Canto de las ofrendas
+
+### Santo
+
+### Amén
+Debe ser cantado
+
+### Padre nuestro
+Debe ser cantado
+
+### Saludo de paz
+Durante el saludo de paz se hace uso de un recurso musical, el #silencio#.
+El silencio termina cuando el presidente de la celebración está por romper
+el cuerpo de Cristo.
+
+### Agnus Dei o Cordero
+Recordamos la muerte y sacrificio de Jesús, muestra de su amor por nosotros.
+No se debe aplaudir, es un momento de recogimiento.
+
+### Canto de comunión
+
+## Rito de conclusión
+
+### Canto final
+Debe tener un sentido misionero, de envío,
+de dar a conocer a los demás la buena noticia que recibimos.
+
+María es un ícono misionero y muchas de las canciones dedicadas
+a la madre del Señor y madre nuestra,
+pueden ser adecuadas para este fin
+
+# ¿Qué tipos de cantos hay en la misa?
+
+## Cantos del ordinario de la misa
+Estos cantos siempre deben tener la letra que se da a continuación.
+
+### Kyrie o Señor piedad
+
+### Gloria
+
+### Credo
+
+### Santo
+
+### Padre nuestro
+
+### Agnus Dei o Cordero
+
+## Cantos propios de la misa
+Las letras de estos cantos varían según el tiempo litúrgico, fiesta patronal
+
+### Canto de entrada _(O ANTÍFONA??)_
+
+### Salmo responsorial
+
+### Aclamación al Evangelio
+
+### Canto de las ofrendas _(REVISAR)_
+
+### Canto de comunión
+
+### Canto final
+
+# Ministerio de música en otros ámbitos católicos
+
+## Grupo de oración
+
+## Adoración al Santísimo
+
+## Catequesis
+
+## Animación y conciertos católicos
