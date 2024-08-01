@@ -1,7 +1,7 @@
 # Prólogo ¿por qué y para quién es este trabajo? {.unnumbered}
 
 Durante mucho años dirijo un pequeño coro parroquial.
-Yo sabía cantar y tocar guitarra, pero no sabía cómo hacerlo para Dios y mucho menos en misa.
+Yo sabía cantar y tocar guitarra, pero no sabía cómo hacerlo para Dios y mucho menos en misa <http://www.google.com>.
 Mi primer encuentro musical en el ámbito religioso fue a través del Camino neocatecumenal, donde fui salmista un corto tiempo en Tarija, Bolivia.
 Eso me animó a conformar el primer ministerio de música con la que ahora es mi esposa y un par de Señoras mayores, Doña Rossi y Doña Martha Alvarez cerca del año 2005 (#REVISAR#).
 Al pasar el tiempo fui aprendiendo algunas cosas por aquí y otras por allá,
@@ -25,8 +25,7 @@ Para ello, me tomo la libertad de escribirte directa y llanamente como en una co
 
 ## Fuentes del trabajo
 @rms2e
+
 ## Licencia {.unnumbered}
 
-This book is licensed to you under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
-
-The code samples in this book are licensed under [Creative Commons CC0 1.0 Universal (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/), i.e. public domain.
+Este contenido se distribuye bajo licencia [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).

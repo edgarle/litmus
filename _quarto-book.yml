@@ -4,6 +4,9 @@ project:
 
 toc: true
 number-sections: true
+bibliography: referencias.bib
+citation-location: document
+lang: es
 
 book:
   title: "Liturgia para ministerios de música católicos"
@@ -15,7 +18,7 @@ book:
     - name: "Colaborador"
   page-footer:
     left:
-      - text: "Copyright 2024, Edgar E. Gareca León"
+      - text: "&copy; Edgar E. Gareca León, OP"
   date: last-modified
   date-format: "[Última modificación:] DD-MM-YYYY: H:mm:ss (A)"
   reader-mode: true
@@ -55,7 +58,7 @@ format:
     date: last-modified
     date-format: "[Última modificación:] DD-MM-YYYY: H:mm:ss (A)"
     theme:
-      light: cosmo
+      light: [simplex, litmus-light.scss]
       dark: darkly
     code-tools: true
     df-print: paged

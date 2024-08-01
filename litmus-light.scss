@@ -1,0 +1,25 @@
+/*-- scss:defaults --*/
+
+// colores
+
+$theme-black: #252213;
+$theme-white: #f6efdf;
+$theme-blue: #5252ff;
+$theme-orange: #ff7f11;
+$theme-red: #ce0000;
+
+$font-size-root: 18px;
+$h1-font-size: $font-size-root * 1.25;
+
+$body-bg: $theme-white;
+$body-color: $theme-black;
+// $link-color: $theme-blue;
+// $code-color: $theme-orange;
+
+// Font family
+$font-family-sans-serif: 'IBM Plex Sans';
+
+/*-- scss:rules --*/
+h1, h2, h3, h4 {
+    color: $theme-red;
+}
