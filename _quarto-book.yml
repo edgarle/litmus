@@ -4,7 +4,6 @@ project:
 
 toc: true
 number-sections: false
-bibliography: referencias.bib
 citation: 
   license: "CC BY-NC-ND 4.0"
   type: "book"
@@ -40,19 +39,8 @@ book:
     - intro.qmd
     - minmus.qmd
     - liturgia.qmd
+    - misa.qmd
     - minmus-otros.qmd
-    - part: liturgia.qmd
-      chapters:
-      - que-es-liturgia.qmd
-      - año-liturgico.qmd
-      - misa-liturgia.qmd
-      - partes-misa.qmd
-      - cantos-misa.qmd
-    - part: minmus-otros.qmd
-      chapters:
-      - grupo-de-oracion.qmd
-      - adoracion.qmd
-      - animacion.qmd
   references: referencias.bib
   appendices:
     - referencias.qmd
