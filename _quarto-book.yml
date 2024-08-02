@@ -34,13 +34,13 @@ book:
   reader-mode: true
   repo-url: https://github.com/edgarle/litmus/
   repo-actions: [edit, issue]
+  cover-image: cover.png
   chapters: 
     - index.qmd
     - intro.qmd
-    - part: minmus.qmd
-      chapters:
-      - tipos-minmus.qmd
-      - rol-en-misa.qmd
+    - minmus.qmd
+    - liturgia.qmd
+    - minmus-otros.qmd
     - part: liturgia.qmd
       chapters:
       - que-es-liturgia.qmd
@@ -61,6 +61,8 @@ book:
   page-navigation: true
   search: true
   sharing: [twitter, facebook]
+  cover-image-alt: |
+    Descripción de la tapa
 format:
   html:
     link-external-icon: true
@@ -78,7 +80,7 @@ format:
     number-sections: true
     number-depth: 2
     toc-depth: 3
-    reference-location: 
+    # reference-location: 
   pdf:
     toc: true
     fig-pos: "H"
