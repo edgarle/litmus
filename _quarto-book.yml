@@ -1,9 +1,9 @@
 project:
-  type: book
   output-dir: _book
+  type: book
 
 toc: true
-number-sections: true
+number-sections: false
 bibliography: referencias.bib
 citation-location: document
 lang: es
@@ -16,6 +16,7 @@ book:
       url: https://www.researchgate.net/profile/Edgar-Gareca-Leon
       affiliation: Fraternidad de laicos Santo Tomás de Aquino, Cochabamba
     - name: "Colaborador"
+  ## description: "Lo que quieras decir"
   page-footer:
     left:
       - text: "&copy; Edgar E. Gareca León, OP"
@@ -49,6 +50,7 @@ book:
     - textos-ordinario.qmd
   back-to-top-navigation: true
   page-navigation: true
+  search: true
 
 format:
   html:
@@ -59,13 +61,13 @@ format:
     date-format: "[Última modificación:] DD-MM-YYYY: H:mm:ss (A)"
     theme:
       light: [simplex, litmus-light.scss]
-      dark: darkly
-    code-tools: true
+      dark: simplex
+    code-tools: false
     df-print: paged
-    fig-cap-location: top
+    fig-cap-location: bottom
     html-math-method: mathjax
     number-sections: true
-    number-depth: 3
+    number-depth: 2
     toc-depth: 3
   pdf:
     toc: true
@@ -78,8 +80,8 @@ format:
     documentclass: scrbook
     classoption: [twoside=off]
     shift-heading-level-by: 0
-    toc-depth: 2
-    number-sections: true
+    toc-depth: 1
+    number-sections: false
     number-depth: 3
     colorlinks: true
     include-in-header:

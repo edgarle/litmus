@@ -15,7 +15,7 @@ format:
 Prólogo ¿por qué y para quién es este trabajo?
 ==============================================
 
-Durante mucho años dirijo un pequeño coro parroquial.
+Durante mucho años dirijo un pequeño coro parroquial. [@rms2e]
 Yo sabía cantar y tocar guitarra, pero no sabía cómo hacerlo para Dios y mucho menos en misa.
 Mi primer encuentro musical en el ámbito religioso fue a través del Camino neocatecumenal, donde fui salmista un corto tiempo en Tarija, Bolivia.
 Eso me animó a conformar el primer ministerio de música con la que ahora es mi esposa y un par de Señoras mayores, Doña Rossi y Doña Martha Alvarez cerca del año 2005 (#REVISAR#).
@@ -284,3 +284,8 @@ Las letras de estos cantos varían según el tiempo litúrgico, fiesta patronal
 ## Catequesis
 
 ## Animación y conciertos católicos
+
+### References
+
+::: {#refs}
+:::
