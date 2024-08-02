@@ -18,7 +18,7 @@ $h6-font-size: $font-size-root 1;
 
 $body-bg: $theme-white;
 $body-color: $theme-black;
-// $link-color: $theme-blue;
+$link-color: $theme-blue;
 // $code-color: $theme-orange;
 
 // Font family
@@ -30,12 +30,24 @@ $headings-color: $theme-red;
 //    color: $theme-red;
 //}
 
-.video-container {
-    position: relative;
-    width: 100%;
-    padding-bottom: 56.25%;
-    margin-bottom: 1rem;
-  }
+.orange {
+  color: $theme-orange;
+}
+
+.red {
+  color: $theme-red
+}
+
+.blue {
+  color: $theme-blue;
+}
+
+//.video-container {
+//    position: relative;
+//    width: 100%;
+ //   padding-bottom: 56.25%;
+ //   margin-bottom: 1rem;
+ // }
   
   .video {
     position: absolute;

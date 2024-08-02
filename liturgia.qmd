@@ -1,7 +1,7 @@
 # Liturgia para ministerios de música
-A continuación se presentan algunos elementos básicos de liturgia para ministerios de música y fieles laicos. La finalidad es que entendamos mejor nuestro rol, tanto como laico y ministerio de música. Pero más aún, que descubramos las maravillas que esconde la liturgia para nosotros, los creyentes en Cristo Jesús.
+A continuación se presentan algunos elementos básicos de liturgia para ministerios de música y fieles laicos. La finalidad es que entendamos mejor nuestro rol, tanto como laico y ministerio de música.  Pero más aún, que descubramos las maravillas que esconde la liturgia para nosotros, los creyentes en Cristo Jesús.
 
-## ¿Qué es la liturgia?
+## ¿Qué es la liturgia? {#sec-liturgia}
 La liturgia es...
 
 ### La misa es liturgia
