@@ -5,6 +5,15 @@ project:
 toc: true
 number-sections: false
 bibliography: referencias.bib
+citation: 
+  license: "CC BY-NC-ND 4.0"
+  type: "book"
+  author: Edgar E. Gareca
+  collection-title: Liturgia para ministerios de música católicos
+  issued: NA
+  abstract: |
+    Liturgia en lenguaje sencillo para el ministerio de música católicos
+
 citation-location: document
 lang: es
 
@@ -44,14 +53,14 @@ book:
       - grupo-de-oracion.qmd
       - adoracion.qmd
       - animacion.qmd
-      - referencias.qmd
   references: referencias.bib
   appendices:
+    - referencias.qmd
     - textos-ordinario.qmd
   back-to-top-navigation: true
   page-navigation: true
   search: true
-
+  sharing: [twitter, facebook]
 format:
   html:
     link-external-icon: true
@@ -65,10 +74,11 @@ format:
     code-tools: false
     df-print: paged
     fig-cap-location: bottom
-    html-math-method: mathjax
+    # html-math-method: mathjax
     number-sections: true
     number-depth: 2
     toc-depth: 3
+    reference-location: 
   pdf:
     toc: true
     fig-pos: "H"
